@@ -1,0 +1,6 @@
+sudo tools/hciconfig hci0 up
+sudo tools/hciconfig hci0 leadv
+sudo tools/hciconfig hci0 noscan
+
+To verify:
+tools/hciconfig
