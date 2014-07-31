@@ -1,0 +1,12 @@
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R1", "beacon_uuid":"1","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-75" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R2", "beacon_uuid":"1","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-75" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R3", "beacon_uuid":"1","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-75" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R4", "beacon_uuid":"1","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-75" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R1", "beacon_uuid":"2","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-90" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R2", "beacon_uuid":"2","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-60" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R3", "beacon_uuid":"2","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-90" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R4", "beacon_uuid":"2","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-99" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R1", "beacon_uuid":"3","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-70" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R2", "beacon_uuid":"3","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-90" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R3", "beacon_uuid":"3","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-88" }
+{ "Timestamp":"Tue, 1 Jul 2014 21:00:00 +0000", "beacon_macaddr":"R4", "beacon_uuid":"3","beacon_major":"13034","beacon_minor":"2024","tx_pwr_1m":"-59","RSSI":"-65" }
