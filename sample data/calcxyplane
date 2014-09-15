@@ -1,0 +1,47 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+#define pow(a,b) (a*a)
+
+int main()
+{
+double xa, xb, xc;
+double ya, yb, yc;
+double ra, rb, rc;
+double x, y;
+double S, T;
+double y1, y2;
+char input[80];
+
+xa = 0;
+xb = 100;
+xc = 100;
+ya = 100;
+yb = 100;
+yc = 0;
+
+
+printf("\nDistance to R1: ");
+gets(input);
+ra = atof(input);
+printf("\nDistance to R2: ");
+gets(input);
+rb = atof(input);
+printf("\nDistance to R3: ");
+gets(input);
+rc = atof(input);
+
+
+S = (pow(xc,2.) - pow(xb,2.) + pow(yc,2.) -
+     pow(yb,2.) + pow(rb,2.) - pow(rc,2.)    ) / 2.0;
+T = (pow(xa,2.) - pow(xb,2.) + pow(ya,2.) -
+     pow(yb,2.) + pow(rb,2.) - pow(ra,2.)    ) / 2.0;
+
+y = ((T*(xb-xc)) - (S*(xb-xa))) /
+    (((ya-yb)*(xb-xc)) - ((yc-yb)*(xb-xa)));
+
+x = ((y*(ya-yb)) - T) / (xb-xa);
+
+printf("\nPoint D: (%f,%f)\n", x, y);
+return 0;
+} /* main */
